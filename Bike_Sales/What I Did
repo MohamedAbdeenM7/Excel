@@ -1,0 +1,16 @@
+# What I Did (Read Me)
+
+This document explains the steps taken to clean and process the Bike Sales data:
+
+1. **Data Inspection**
+   - Reviewed the original data to understand its structure and identify issues.
+2. **Cleaning Steps**
+   - Removed duplicate records if present.
+   - Handled missing values by either filling or removing incomplete rows.
+   - Corrected data types (e.g., dates, numbers).
+   - Standardized categorical entries for consistency.
+   - Removed irrelevant or unnecessary columns.
+3. **Export**
+   - Saved the cleaned data as "Data_Cleaned.xlsx" for further analysis.
+
+Refer to "Data_Cleaned.xlsx" for the processed data.
