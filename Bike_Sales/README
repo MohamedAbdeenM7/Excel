@@ -12,7 +12,18 @@ This directory contains the data and documentation for the Bike Sales project.
   - This is the cleaned version of the bike sales dataset.
   - I performed data cleaning tasks such as handling missing values, correcting data formats, and removing duplicates or irrelevant columns.
   - Use this file for analysis as it is ready for processing.
+  1. **Data Inspection**
+   - Reviewed the original data to understand its structure and identify issues.
+  2. **Cleaning Steps**
+   - Removed duplicate records if present.
+   - Handled missing values by either filling or removing incomplete rows.
+   - Corrected data types (e.g., dates, numbers).
+   - Standardized categorical entries for consistency.
+   - Removed irrelevant or unnecessary columns.
+  3. **Export**
+   - Saved the cleaned data as "Data_Cleaned.xlsx" for further analysis.
 
+Refer to "Data_Cleaned.xlsx" for the processed data.
 - **What I Did (Read Me).txt**
   - This file documents all the steps I took to clean and process the original data.
   - Review this file for a detailed explanation of the data cleaning workflow and decisions made.
@@ -22,3 +33,8 @@ This directory contains the data and documentation for the Bike Sales project.
 - The "Data.xlsx" file reflects your raw data as provided.
 - The "Data_Cleaned.xlsx" file demonstrates the improvements and corrections I made.
 - The "What I Did.txt" file explains my approach and the actions taken.
+
+# What I Did (Read Me)
+
+This document explains the steps taken to clean and process the Bike Sales data:
+
