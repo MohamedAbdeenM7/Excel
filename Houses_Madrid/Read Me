@@ -1,0 +1,22 @@
+# Houses_Madrid Directory
+
+This directory contains the data and documentation for the Houses in Madrid project.
+
+## Files
+
+- **Data.csv**
+  - The original dataset with raw information on houses in Madrid.
+  - Contains all unprocessed records and columns as collected.
+
+- **Data_Cleaned.csv**
+  - The cleaned version of the data, ready for analysis.
+  - Cleaning steps included fixing missing values, standardizing columns, and removing errors.
+
+- **What I Did (Read Me).txt**
+  - Describes the data cleaning and processing steps applied to the original data.
+
+## Notes
+
+- Your original data is preserved in "Data.csv".
+- The cleaned and improved dataset is available in "Data_Cleaned.csv".
+- For transparency, all modifications and cleaning steps are described in "What I Did (Read Me).txt".
