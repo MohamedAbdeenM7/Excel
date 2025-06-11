@@ -1,0 +1,24 @@
+# Bike_Sales Directory
+
+This directory contains the data and documentation for the Bike Sales project.
+
+## Files
+
+- **Data.xlsx**
+  - This is the original, raw dataset containing the bike sales data.
+  - It includes all columns and records as initially collected.
+
+- **Data_Cleaned.xlsx**
+  - This is the cleaned version of the bike sales dataset.
+  - I performed data cleaning tasks such as handling missing values, correcting data formats, and removing duplicates or irrelevant columns.
+  - Use this file for analysis as it is ready for processing.
+
+- **What I Did (Read Me).txt**
+  - This file documents all the steps I took to clean and process the original data.
+  - Review this file for a detailed explanation of the data cleaning workflow and decisions made.
+
+## Notes
+
+- The "Data.xlsx" file reflects your raw data as provided.
+- The "Data_Cleaned.xlsx" file demonstrates the improvements and corrections I made.
+- The "What I Did.txt" file explains my approach and the actions taken.
