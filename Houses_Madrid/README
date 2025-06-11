@@ -12,6 +12,18 @@ This directory contains the data and documentation for the Houses in Madrid proj
   - The cleaned version of the data, ready for analysis.
   - Cleaning steps included fixing missing values, standardizing columns, and removing errors.
 
+1. **Initial Review**
+   - Inspected the dataset for structure, missing values, and inconsistencies.
+2. **Cleaning Process**
+   - Removed duplicated entries.
+   - Addressed missing values appropriately.
+   - Standardized formats for all columns (dates, prices, addresses, etc.).
+   - Removed or fixed data errors and outliers.
+   - Selected relevant columns for analysis.
+3. **Result**
+   - Produced a cleaned dataset ("Data_Cleaned.csv") for reliable analysis.
+
+See the cleaned file for the final dataset.
 - **What I Did (Read Me).txt**
   - Describes the data cleaning and processing steps applied to the original data.
 
